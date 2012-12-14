@@ -1,3 +1,8 @@
+<!--
+  description: Add a "Self Invoking Anonymous Function" pattern
+  tab trigger: siaf
+  scope: global
+-->
 <snippet>
 	<content><![CDATA[
 (function(){
